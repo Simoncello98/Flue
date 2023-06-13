@@ -1,0 +1,69 @@
+﻿<Properties StartupConfiguration="{38A0E526-3C18-2EE3-FBA4-BD8AC30A1546}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Managers/AudioManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Models/SpawnPoint.cs" Line="14" Column="6" />
+      <File FileName="Assets/Scripts/Models/ColorSelectorState.cs" />
+      <File FileName="Assets/Scripts/Floor/FloorController.cs" />
+      <File FileName="Assets/Scripts/Ball/BallController.cs" Line="125" Column="52" />
+      <File FileName="Assets/Scripts/Interfaces/InputObserver.cs" />
+      <File FileName="Assets/Scripts/ColorSelector/SquareColor/SquareColorController.cs" />
+      <File FileName="Assets/Scripts/ColorSelector/ColorSelectorController.cs" />
+      <File FileName="Assets/Scripts/Camera/CameraController.cs" />
+      <File FileName="Assets/Scripts/Managers/PointManager.cs" />
+      <File FileName="Assets/Scripts/Managers/ObstaclesManager.cs" Line="32" Column="24" />
+      <File FileName="Assets/Scripts/Obstacles/ObstacleController.cs" />
+      <File FileName="Assets/Scripts/Obstacles/WallObstacleController.cs" />
+      <File FileName="Assets/Scripts/Obstacles/CylinderObstacleController.cs" />
+      <File FileName="Assets/Scripts/StaticClasses/ColorMaterialsRef.cs" />
+      <File FileName="Assets/Scripts/Obstacles/CubeObstacleController.cs" />
+      <File FileName="Assets/Scripts/Models/BallTime.cs" />
+      <File FileName="Assets/Scripts/Enums/ColorMaterial.cs" />
+      <File FileName="Assets/Scripts/Managers/GameoverManager.cs" />
+      <File FileName="Assets/Scripts/OscurePanels/GamePlayOscurePanelAnimationEventsHandler.cs" />
+      <File FileName="Assets/Scripts/OscurePanels/GameoverOscurePanelAnimationEventsHandler.cs" />
+      <File FileName="Assets/Scripts/OscurePanels/MainManuOscurePanelAnimationEventsHandler.cs" />
+      <File FileName="Assets/Scripts/Managers/GameoverHandler.cs" />
+      <File FileName="Assets/Scripts/Managers/MainMenuManager.cs" />
+      <File FileName="Assets/Scripts/Managers/InputManager.cs" />
+      <File FileName="Assets/Scripts/Managers/PCInputManager.cs" />
+      <File FileName="Assets/Scripts/Managers/RuntimeFloorsManager.cs" />
+      <File FileName="Assets/Scripts/StaticClasses/SaveScores.cs" />
+      <File FileName="Assets/Scripts/Interfaces/OscurePanelAnimationEventHandler.cs" />
+      <File FileName="Assets/Scripts/Managers/AudioManager.cs" Line="57" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Flue" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Ball" expanded="True" />
+                <Node name="Camera" expanded="True" />
+                <Node name="ColorSelector" expanded="True">
+                  <Node name="SquareColor" expanded="True" />
+                </Node>
+                <Node name="Enums" expanded="True" />
+                <Node name="Floor" expanded="True" />
+                <Node name="Interfaces" expanded="True" />
+                <Node name="Managers" expanded="True">
+                  <Node name="AudioManager.cs" selected="True" />
+                </Node>
+                <Node name="Models" expanded="True" />
+                <Node name="Obstacles" expanded="True" />
+                <Node name="OscurePanels" expanded="True" />
+                <Node name="StaticClasses" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dde1500a-e389-49ae-a147-257c02a516fc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
